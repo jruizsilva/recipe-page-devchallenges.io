@@ -31,7 +31,7 @@
 
 ## Overview
 
-![screenshot](https://awesomescreenshot.s3.amazonaws.com/image/1849999/6587911-07ff3fc530f0c3fa63af19855a28783d.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAJSCJQ2NM3XLFPVKA%2F20210313%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210313T024132Z&X-Amz-Expires=28800&X-Amz-SignedHeaders=host&X-Amz-Signature=835647fbc92bc1f8ba14b1df0da530819d8a1f2206756e7c41609c20f01a51ac)
+![screenshot](https://i.ibb.co/KbJgHZv/Recipe-page-challenge.png)
 
 ## Responsive Web Developer
 
